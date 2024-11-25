@@ -10,7 +10,7 @@ This is a submission for the write-up contest being organised as part of the [Ha
 
 ## Team Information
 
-| \<team-name-on-ctfd\>  | \<X\> members |
+| \<team-name-on-ctfd\>  | 1 member(s) |
 | ------------- | ------------- |
 | Tai Lam | [@taivlam](https://github.com/taivlam) |
 
