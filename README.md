@@ -1,4 +1,4 @@
-# The Hades CTF write-up template
+# Hades CTF write-up
 
 <!-- THIS NOTE SHOULD BE REMOVED IN YOUR SUBMISSION -->
 > [!NOTE]
