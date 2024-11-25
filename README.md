@@ -12,10 +12,7 @@ This is a submission for the write-up contest being organised as part of the [Ha
 
 | \<team-name-on-ctfd\>  | \<X\> members |
 | ------------- | ------------- |
-| \<name-of-member\> | [\<github-username\>](\<github-profile-URL>\) |
-| \<name-of-member\> | [\<github-username\>](\<github-profile-URL>\) |
-| \<name-of-member\> | [\<github-username\>](\<github-profile-URL>\) |
-| \<name-of-member\> | [\<github-username\>](\<github-profile-URL>\) |
+| Tai Lam | [@taivlam](https://github.com/taivlam) |
 
 <!-- @DONOTEDIT -->
 ## Write-up Index
